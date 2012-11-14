@@ -1,0 +1,5 @@
+#---AGX Properties---
+#Wed Nov 14 13:49:41 CET 2012
+profiles=pyegg;zca;buildout;plone;dexterity
+target=/Users/scheidc/Documents/workspace_indigo/dexterity.product
+generator=/Users/scheidc/Code/agx.dev/bin/agx
